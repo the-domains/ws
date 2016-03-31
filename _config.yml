@@ -1,0 +1,28 @@
+name: WS
+favicon: null
+layout_spectrum: 0.060189552372321486
+typography_spectrum: 0.19923555757850409
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.20574548724107444
+  lightness: 0.4433983031194657
+  saturation: 0.3763653275091201
+  rhythmicContrast: 0.8573047532700002
+purpose: []
