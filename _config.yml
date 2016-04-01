@@ -1,6 +1,6 @@
 name: WS
 favicon: null
-layout_spectrum: 0.79564
+layout_spectrum: 0.46732
 typography_spectrum: 0.90444
 cta:
   domain: null
@@ -21,7 +21,7 @@ color:
     - '#3B407C'
     - '#547AB1'
     - '#CEAFC0'
-  brandStrength: 0.25
+  brandStrength: 0.6875
   lightness: 0.4433983031194657
   saturation: 0.3763653275091201
   rhythmicContrast: 0.25
