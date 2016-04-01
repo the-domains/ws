@@ -2,6 +2,7 @@ name: WS
 favicon: null
 layout_spectrum: 0.46732
 typography_spectrum: 0.90444
+title: Water Security News
 cta:
   domain: null
   bucket: null
