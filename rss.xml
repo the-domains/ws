@@ -2,10 +2,17 @@
     <channel>
         <title><![CDATA[WS]]></title>
         <description><![CDATA[WS]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/ws/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 01 Apr 2016 02:32:58 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 01 Apr 2016 02:33:15 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/ws/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[UN News - #Climatechain: UN to launch campaign illustrating water-environment-climate change link]]></title>
+            <description><![CDATA[<article><h1>UN News - #Climatechain: UN to launch campaign illustrating water-environment-climate change link</h1><p>As the global community marked World Water Day during a special event at United Nations Headquarters, the UN Children's Fund reported that rapidly changing weather conditions are limiting access to safe drinking water for millions, and announced the launch of a new campaign on the link between water, the environment and climate change.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c51256768ebe86d079af8ec45c5f6ac6632c14a.jpg"></article>]]></description>
+            <link>http://www.un.org/apps/news/story.asp?NewsID=53507#.Vv3aDBMrLdQ</link>
+            <guid isPermaLink="false">1876c748-b5b2-4f6e-a681-8e9ad58fa903</guid>
+            <pubDate>Fri, 01 Apr 2016 02:32:47 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Forest and Water Programme | FAO | Food and Agriculture Organization of the United Nations]]></title>
             <description><![CDATA[<article><h1>Forest and Water Programme | FAO | Food and Agriculture Organization of the United Nations</h1><p>Increasing international action to address forest-water interactions in science, policy, economics and forest practices. An action plan of the International Forests and Water Agenda The Forests and Water: a Five year Action Plan calls for the tangible integration of science, policy and practice related to forest water interactions.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/f6fdc31a7badfdc0361e88d4ccd9e366b1f40d1e.jpg"></article>]]></description>
